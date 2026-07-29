@@ -8,6 +8,14 @@
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat" alt="License"></a>
 </p>
 
+<p align="center">
+  <strong>English</strong> ·
+  <a href=".github/readme/README.zh-CN.md">简体中文</a> ·
+  <a href=".github/readme/README.ja.md">日本語</a> ·
+  <a href=".github/readme/README.ko.md">한국어</a> ·
+  <a href=".github/readme/README.vi.md">Tiếng Việt</a>
+</p>
+
 
 ## Install
 
